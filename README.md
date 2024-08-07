@@ -4,7 +4,7 @@ Information about me and my interests.
   
 ## About Me  
   
-Zhang San, an undergraduate student majoring in Software Engineering at Huazhong University of Science and Technology. I am interested in software development, data science, and machine learning.  
+rxHuang, an undergraduate student majoring in Software Engineering at Huazhong University of Science and Technology. I am interested in software development, data science, and machine learning.  
   
 ## My Interests  
   
